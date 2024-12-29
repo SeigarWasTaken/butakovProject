@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/butakovProject/static/css/main.23ebffc3.css",
-    "main.js": "/butakovProject/static/js/main.0332840d.js",
+    "main.css": "/butakovProject/static/css/main.569de819.css",
+    "main.js": "/butakovProject/static/js/main.d76d5b94.js",
     "static/media/vr_mr_syokuji_man.png": "/butakovProject/static/media/vr_mr_syokuji_man.aba61b31c7eb7c89d266.png",
     "static/media/travel_happy_family_father.png": "/butakovProject/static/media/travel_happy_family_father.93d8ac2b9e5e8bc23e94.png",
     "static/media/The-Ultimate-Bucket-List-Things-to-Do-In-Japan-1024x576.jpg": "/butakovProject/static/media/The-Ultimate-Bucket-List-Things-to-Do-In-Japan-1024x576.5ab6df1cdd79256ebe31.jpg",
     "static/media/aisatsu2-300x278.png": "/butakovProject/static/media/aisatsu2-300x278.484872e8b4450c4fe57d.png",
     "static/media/image.png": "/butakovProject/static/media/image.dce7b1dcbc5993bf8780.png",
     "index.html": "/butakovProject/index.html",
-    "main.23ebffc3.css.map": "/butakovProject/static/css/main.23ebffc3.css.map",
-    "main.0332840d.js.map": "/butakovProject/static/js/main.0332840d.js.map"
+    "main.569de819.css.map": "/butakovProject/static/css/main.569de819.css.map",
+    "main.d76d5b94.js.map": "/butakovProject/static/js/main.d76d5b94.js.map"
   },
   "entrypoints": [
-    "static/css/main.23ebffc3.css",
-    "static/js/main.0332840d.js"
+    "static/css/main.569de819.css",
+    "static/js/main.d76d5b94.js"
   ]
 }
