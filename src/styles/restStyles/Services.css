@@ -1,0 +1,17 @@
+
+.block {
+    width: 300px;
+    text-align: center;
+  }
+  
+  .block__title {
+    margin-top: 30px;
+  }
+  
+  .block__text {
+    margin-top: 18px;
+  }
+  
+  .block__img {
+    max-width: 200px;
+  }
